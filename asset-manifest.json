@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chat-implementation/static/css/main.b448e7a5.css",
+    "main.js": "/chat-implementation/static/js/main.97d1e9ff.js",
+    "static/js/141.d3448abc.chunk.js": "/chat-implementation/static/js/141.d3448abc.chunk.js",
+    "static/js/209.38f0b032.chunk.js": "/chat-implementation/static/js/209.38f0b032.chunk.js",
+    "static/js/717.2093142b.chunk.js": "/chat-implementation/static/js/717.2093142b.chunk.js",
+    "static/js/829.a96b479f.chunk.js": "/chat-implementation/static/js/829.a96b479f.chunk.js",
+    "static/js/787.d913e3da.chunk.js": "/chat-implementation/static/js/787.d913e3da.chunk.js",
+    "index.html": "/chat-implementation/index.html",
+    "main.b448e7a5.css.map": "/chat-implementation/static/css/main.b448e7a5.css.map",
+    "main.97d1e9ff.js.map": "/chat-implementation/static/js/main.97d1e9ff.js.map",
+    "141.d3448abc.chunk.js.map": "/chat-implementation/static/js/141.d3448abc.chunk.js.map",
+    "209.38f0b032.chunk.js.map": "/chat-implementation/static/js/209.38f0b032.chunk.js.map",
+    "717.2093142b.chunk.js.map": "/chat-implementation/static/js/717.2093142b.chunk.js.map",
+    "829.a96b479f.chunk.js.map": "/chat-implementation/static/js/829.a96b479f.chunk.js.map",
+    "787.d913e3da.chunk.js.map": "/chat-implementation/static/js/787.d913e3da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b448e7a5.css",
+    "static/js/main.97d1e9ff.js"
+  ]
+}
